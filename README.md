@@ -1,5 +1,4 @@
 # DeepAR Patient Forecasting
-Author: Connor Graflund
 This project was a part of the Colorado School of Mines Summer 2020 Field Session for Medecipher.
 
 The goal of this project was to experiment and find a forecasting model that had better error metrics than Medecipher's current model, Arimax.
